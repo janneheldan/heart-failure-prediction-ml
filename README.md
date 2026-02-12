@@ -16,4 +16,4 @@ The following classification algorithms will be implemented and evaluated:
 * Support Vector Machine (SVM) Classifier
 * Random Forest Classifier
 * Gradient Boosting Classifier
-* Multi-Layer Perceptron (MLP) Classifier
+* KNN
